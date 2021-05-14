@@ -18,4 +18,7 @@ For more details please see [running tests](https://facebook.github.io/create-re
 
 Happy Testing!
 
-- Armando Bibay Jr.
+Regards,
+
+[Armando Bibay Jr](https://www.linkedin.com/in/armando-b-95924117b/)
+]
