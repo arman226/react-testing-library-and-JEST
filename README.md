@@ -21,4 +21,3 @@ Happy Testing!
 Regards,
 
 [Armando Bibay Jr](https://www.linkedin.com/in/armando-b-95924117b/)
-]
