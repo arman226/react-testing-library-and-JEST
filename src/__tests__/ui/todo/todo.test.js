@@ -15,7 +15,7 @@ test("should render completed todo component", () => {
   const id = 2;
   const text = "hello, world!";
   const completed = true;
-
+  //to see whether or not a React component is possible to be rendered
   render(<Todos text={text} id={id} completed={completed} />);
   const todoElement = screen.getByTestId(`todo-${id}`);
   expect(todoElement).toBeInTheDocument();
@@ -46,7 +46,7 @@ test("should render not completed todo component", () => {
 test("matches snapshot", () => {
   const id = 2;
   const text = "hello, world!";
-  const completed = false;
+  const completed = true;
 
   const tree = renderer
     .create(<Todos text={text} id={id} completed={completed} />)

@@ -4,9 +4,10 @@ exports[`matches snapshot 1`] = `
 <div
   data-testid="todo-2"
 >
-  TASK: 
-  <h1>
-    hello, world!
-  </h1>
+  <strike>
+    <h1>
+      hello, world!
+    </h1>
+  </strike>
 </div>
 `;
